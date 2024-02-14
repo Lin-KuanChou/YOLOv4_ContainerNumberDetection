@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>10.jpg</filename>
+	<path>D:\Chou\Deep Learning\LabelImg_v1.8.0\data\DataSet\train\10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ContainerNum</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>149</ymin>
+			<xmax>213</xmax>
+			<ymax>186</ymax>
+		</bndbox>
+	</object>
+</annotation>

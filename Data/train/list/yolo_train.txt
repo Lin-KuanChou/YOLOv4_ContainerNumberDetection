@@ -1,0 +1,12 @@
+D:\OnePlusSeven\ML\Yolo\Data/train/train_img/1.jpg 246,136,344,172,0
+D:\OnePlusSeven\ML\Yolo\Data/train/train_img/10.jpg 108,149,213,186,0
+D:\OnePlusSeven\ML\Yolo\Data/train/train_img/12.jpg 288,94,444,147,0
+D:\OnePlusSeven\ML\Yolo\Data/train/train_img/14.jpg 586,158,803,231,0
+D:\OnePlusSeven\ML\Yolo\Data/train/train_img/15.jpg 438,102,593,164,0
+D:\OnePlusSeven\ML\Yolo\Data/train/train_img/16.jpg 358,85,471,130,0
+D:\OnePlusSeven\ML\Yolo\Data/train/train_img/18.jpg 594,217,856,308,0
+D:\OnePlusSeven\ML\Yolo\Data/train/train_img/2.jpg 178,42,242,64,0
+D:\OnePlusSeven\ML\Yolo\Data/train/train_img/3.jpg 478,107,660,169,0
+D:\OnePlusSeven\ML\Yolo\Data/train/train_img/5.jpg 1031,294,1388,417,0
+D:\OnePlusSeven\ML\Yolo\Data/train/train_img/7.jpg 179,67,364,135,0
+D:\OnePlusSeven\ML\Yolo\Data/train/train_img/9.jpg 178,140,264,175,0

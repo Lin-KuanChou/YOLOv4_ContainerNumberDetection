@@ -1,0 +1,4 @@
+D:\OnePlusSeven\ML\Yolo\Data/train/train_img/11.jpg 268,97,391,139,0
+D:\OnePlusSeven\ML\Yolo\Data/train/train_img/13.jpg 319,190,458,238,0
+D:\OnePlusSeven\ML\Yolo\Data/train/train_img/17.jpg 469,232,630,280,0
+D:\OnePlusSeven\ML\Yolo\Data/train/train_img/20.jpg 247,162,441,241,0
